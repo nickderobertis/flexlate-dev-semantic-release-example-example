@@ -11,5 +11,18 @@
       "render_relative_root_in_template": "output"
     }
   ],
-  "applied_templates": []
+  "applied_templates": [
+    {
+      "name": "flexlate-dev-semantic-release-example",
+      "data": {
+        "author": "Nick DeRobertis",
+        "full_name": "flexlate-dev-semantic-release-example-example",
+        "main_branch_name": "main",
+        "short_description": "An example project generated from flexlate-dev-semantic-release-example"
+      },
+      "version": "b7a1850d818f8224e40d2cc8ea9ca42c",
+      "add_mode": "local",
+      "root": "."
+    }
+  ]
 }
