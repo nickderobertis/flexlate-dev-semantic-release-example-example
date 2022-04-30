@@ -2,7 +2,7 @@
   "template_sources": [
     {
       "name": "flexlate-dev-semantic-release-example",
-      "path": "../../home/runner/work/_temp/flexlate-dev-semantic-release-example",
+      "path": "../flexlate-dev-semantic-release-example",
       "type": "copier",
       "version": "b7a1850d818f8224e40d2cc8ea9ca42c",
       "git_url": null,
