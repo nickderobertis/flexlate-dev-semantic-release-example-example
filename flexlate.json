@@ -15,10 +15,10 @@
     {
       "name": "flexlate-dev-semantic-release-example",
       "data": {
-        "author": "Nick DeRobertis",
         "full_name": "flexlate-dev-semantic-release-example-example",
+        "short_description": "An example project generated from flexlate-dev-semantic-release-example",
         "main_branch_name": "main",
-        "short_description": "An example project generated from flexlate-dev-semantic-release-example"
+        "author": "Nick DeRobertis"
       },
       "version": "b7a1850d818f8224e40d2cc8ea9ca42c",
       "add_mode": "local",
