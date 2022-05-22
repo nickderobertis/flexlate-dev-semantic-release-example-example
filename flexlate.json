@@ -4,7 +4,7 @@
       "name": "flexlate-dev-semantic-release-example",
       "path": "../flexlate-dev-semantic-release-example",
       "type": "copier",
-      "version": "27cbb974515f82385a612bdedf290fad",
+      "version": "39d1b04cc56f530d5314b5ebf30a1d9a",
       "git_url": null,
       "target_version": null,
       "render_relative_root_in_output": ".",
@@ -20,7 +20,7 @@
         "main_branch_name": "main",
         "author": "Nick DeRobertis"
       },
-      "version": "27cbb974515f82385a612bdedf290fad",
+      "version": "39d1b04cc56f530d5314b5ebf30a1d9a",
       "add_mode": "local",
       "root": "."
     }
